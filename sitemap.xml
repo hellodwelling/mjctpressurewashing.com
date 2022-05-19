@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://mjctpressurewashing.com/index</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/store</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/reviews</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/gallery-All</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/gallery-Pressure-Washing</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Home-Softwash</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Driveway-&-Sidewalk-Cleaning</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Hardscape-Cleaning</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Fence-Washing</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Gutter-Cleaning</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://mjctpressurewashing.com/service-Other-Pressure-Washing-Services</loc>
+        <lastmod>2022-05-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
